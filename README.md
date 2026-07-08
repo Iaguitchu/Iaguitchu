@@ -1,44 +1,91 @@
-# Olá! Eu sou o Iago de Andrade Marques 👋
-
-## Sobre mim
-Sou desenvolvedor Full Stack, atualmente trabalho no mercado utilizando Python para aplicações web. Tenho familiaridade com Django e Flask, e faço uso de JavaScript, CSS e HTML. Além disso, trabalho com operações CRUD utilizando MySQL e SQL Server. Também utilizo o Power BI para criar interfaces gráficas e, ocasionalmente, faço uso da biblioteca Tkinter.
-
-## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iago-de-andrade-marques/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iaguitchu/)
-
-### Linguagem de Programação e Marcação
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-
-
-### Frameworks
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-
-### Banco de dados
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-### Interfaces Gráficas
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white) ![QuickSight](https://img.shields.io/badge/-QuickSight-232F3E?style=flat-square&logo=Amazon-QuickSight&logoColor=white)
-
-
-
-### Cloud
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-
----
-
-
 <div align="center">
-  
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=Iaguitchu&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaguitchu&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8&hide_title=true)
+
+# Iago de Andrade Marques
+
+### Desenvolvedor Full Stack focado em Python, Django, dados e soluções web
+
+Transformo necessidades reais em sistemas claros, úteis e bem estruturados.
+Atuo com desenvolvimento web, integrações, bancos de dados e dashboards para apoiar decisões.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20de%20Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-de-andrade-marques/)
+[![GitHub](https://img.shields.io/badge/GitHub-Iaguitchu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iaguitchu)
+[![Instagram](https://img.shields.io/badge/Instagram-@iaguitchu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iaguitchu/)
+[![Email](https://img.shields.io/badge/Email-iago2005andrade%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iago2005andrade@gmail.com)
 
 </div>
 
 ---
- 
 
-## Conecte-se comigo
-- **Email:** iago2005andrade@gmail.com
-- **LinkedIn:** [Iago de Andrade](https://www.linkedin.com/in/iago-de-andrade-marques/)
-- **GitHub:** [Iaguitchu](https://github.com/Iaguitchu)
+## Sobre mim
+
+Sou desenvolvedor Full Stack e trabalho principalmente com **Python para aplicações web**.
+Tenho experiência criando sistemas com **Django**, **Flask**, **JavaScript**, **HTML**, **CSS** e operações CRUD em bancos **SQL Server** e **MySQL**.
+
+Também atuo com visualização de dados usando **Power BI** e, quando faz sentido para o problema, desenvolvo ferramentas internas e automações para deixar processos mais simples, rápidos e confiáveis.
+
+Gosto de construir software com foco em:
+
+- código simples de manter;
+- interfaces diretas e funcionais;
+- integrações que resolvem problemas reais;
+- dados organizados para apoiar boas decisões.
+
+---
+
+## Stack principal
+
+### Linguagens e base web
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend e frameworks
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Banco de dados
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Dados, BI e cloud
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## O que eu costumo construir
+
+- Aplicações web com autenticação, painéis administrativos e regras de negócio.
+- APIs e integrações entre sistemas.
+- Dashboards e relatórios para acompanhamento de indicadores.
+- Automatizações e ferramentas internas para reduzir trabalho manual.
+- CRUDs robustos com SQL Server e MySQL.
+
+---
+
+## GitHub em números
+
+<div align="center">
+
+| Estatísticas | Linguagens mais usadas |
+|:--:|:--:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iaguitchu&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaguitchu&theme=tokyonight&layout=compact&langs_count=8&hide_title=true&hide_border=true) |
+
+</div>
+
+---
+
+## Vamos conversar?
+
+Se você quer trocar ideia sobre desenvolvimento, dados, automação ou algum projeto, pode me chamar:
+
+- Email: [iago2005andrade@gmail.com](mailto:iago2005andrade@gmail.com)
+- LinkedIn: [Iago de Andrade Marques](https://www.linkedin.com/in/iago-de-andrade-marques/)
+- GitHub: [Iaguitchu](https://github.com/Iaguitchu)
